@@ -725,7 +725,7 @@ if not st.session_state["started"]:
   </div>
 
   <div style="font-family:'IBM Plex Mono',monospace;font-weight:600;
-              font-size:5.5rem;color:#1a3a5a;line-height:1;margin-bottom:8px">32</div>
+              font-size:5.5rem;color:#1a3a5a;line-height:1;margin-bottom:8px">64</div>
   <div style="font-family:'IBM Plex Mono',monospace;font-size:0.62rem;
               color:#2a4a6a;letter-spacing:3px;text-transform:uppercase;
               margin-bottom:48px">fault configurations</div>
